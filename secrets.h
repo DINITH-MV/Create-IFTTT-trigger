@@ -1,3 +1,3 @@
 //please enter your sensitive data in the Secret tab
-#define SECRET_SSID "Dinith's Galaxy A55";                // your network SSID (name)
-#define SECRET_PASSWORD "12345678.";                // your network password (use for WPA, or use as key for WEP)
+#define SECRET_SSID "replace/wifi/SSID";                // your network SSID (name)
+#define SECRET_PASSWORD "replace/wifi/PASS";                // your network password (use for WPA, or use as key for WEP)
